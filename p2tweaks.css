@@ -1,0 +1,38 @@
+.container1 {
+        font-size: 20px;
+        margin: 0 15px;
+    }
+.headline h1 {
+    font-size: 130px;
+    font-family:cursive;
+    background-color: #101010;
+    color: #625D5D;
+    
+}
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background:url(images/controller.jpg);
+}
+
+table,tr,td{
+    border: 5px solid #625D5D;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto;
+    color:#9d9d9d;
+    
+        }
+.cont{
+    color: white;
+    background-color: #101010;
+}
+body {
+    padding-bottom: 20px;
+    background-color:  #101010;
+}
+footer{
+    text-align: center;
+}
+
